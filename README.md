@@ -10,7 +10,7 @@
 - Logger
 - JUnit
 - Mockito
-- 
+
 # Запуск приложения
 - Откройте проект в Вашей IDE (например, IntelliJIDEA)
 - Укажите путь к Вашей базе данных в файле application.properties
